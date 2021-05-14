@@ -6,7 +6,7 @@ class Car{
         this.spt.shapeColor = "blue";
         this.spt.scale=0.5;
 
-        speed=-3;
+        speed=-4;
         this.spt.velocityX = speed;
     }
    
